@@ -4,6 +4,7 @@
 
 Este proyecto analiza los pasos de modelado, calibracion e incertidumbre del modelo LightGBM sin balanceado, tras elegirlo como modelo "ganador".
 El trabajo parte de datos previamente procesados y divididos en distintos conjuntos para entrenamiento, validación, calibración y test.
+
 ---
 
 # Objetivos
